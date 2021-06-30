@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SamplePinApp</string>
+    <string name="calculate">Calculate</string>
+    <string name="settings">settings</string>
+    <string name="order_confirmation">Order Confirmation</string>
+    <string name="ok">OK</string>
+    <string name="edit_pin_length">Edit PIN Length</string>
+    <string name="cancel">Cancel</string>
+</resources>
